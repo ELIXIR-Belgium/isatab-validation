@@ -1,0 +1,6 @@
+Variable ID	Variable Name	Trait	Method	Method Description	Scale
+WIPO:0000101	FUS-SCORE_score	Fusarium score (1-9 scale)	Direct measure	Mesure directe # ModeOp Arvalis	1 to 9 note
+WIPO:0000145	PM-SCORE_score	Powdey mildew score	PM-SCORE_score		1 to 9 note
+WIPO:0000162	YR-SCORE_score	Disease score Yellow Rust	YR-SCORE_score		1 to 9 note
+WIPO:0000221	rb	Susceptibility to leaf rust	rb	Disease intensity score on a 1 to 9 increasing scale (1: no disease, 9: very severe).	1 to 9 note
+WIPO:0000251	pvp	Susceptibility to cercosporella	pvp		Scale from 2 to 5

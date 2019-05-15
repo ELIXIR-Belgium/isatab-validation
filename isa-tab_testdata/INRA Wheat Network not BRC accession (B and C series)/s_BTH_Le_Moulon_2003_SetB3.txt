@@ -1,0 +1,91 @@
+Source Name	Characteristics[Organism]	Characteristics[Genus]	Characteristics[Species]	Characteristics[Infraspecific Name]	Characteristics[Material Source ID]	Characteristics[Material Source DOI]	Protocol REF	Sample Name	Characteristics[Observation Unit Type]	Characteristics[Spatial Distribution]	Factor Value[itk]
+APACHE	NCBI:4565	Triticum	aestivum	subsp. aestivum	13481	https://doi.org/10.15454/V8WRHY	sample collection	Apacheitkt	VIRTUAL_TRIAL		treated
+APACHE	NCBI:4565	Triticum	aestivum	subsp. aestivum	13481	https://doi.org/10.15454/V8WRHY	sample collection	Apacheitkfi	VIRTUAL_TRIAL		low inputs
+CF00057	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF00057	gnpis_pui:unknown:Wheat:CF00057	sample collection	CF00057itkt	VIRTUAL_TRIAL		treated
+CF00057	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF00057	gnpis_pui:unknown:Wheat:CF00057	sample collection	CF00057itkfi	VIRTUAL_TRIAL		low inputs
+CF01108	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF01108	gnpis_pui:unknown:Wheat:CF01108	sample collection	CF01108itkt	VIRTUAL_TRIAL		treated
+CF01108	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF01108	gnpis_pui:unknown:Wheat:CF01108	sample collection	CF01108itkfi	VIRTUAL_TRIAL		low inputs
+CF01185	NCBI:4565	Triticum	aestivum	subsp. aestivum	24600	https://doi.org/10.15454/LCAXP3	sample collection	CF01185itkt	VIRTUAL_TRIAL		treated
+CF01185	NCBI:4565	Triticum	aestivum	subsp. aestivum	24600	https://doi.org/10.15454/LCAXP3	sample collection	CF01185itkfi	VIRTUAL_TRIAL		low inputs
+CF02040	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02040	gnpis_pui:unknown:Wheat:CF02040	sample collection	CF02040itkfi	VIRTUAL_TRIAL		low inputs
+CF02040	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02040	gnpis_pui:unknown:Wheat:CF02040	sample collection	CF02040itkt	VIRTUAL_TRIAL		treated
+CF02170	NCBI:4565	Triticum	aestivum	subsp. aestivum	24596	https://doi.org/10.15454/LV5TNC	sample collection	CF02170itkt	VIRTUAL_TRIAL		treated
+CF02170	NCBI:4565	Triticum	aestivum	subsp. aestivum	24596	https://doi.org/10.15454/LV5TNC	sample collection	CF02170itkfi	VIRTUAL_TRIAL		low inputs
+CF02242	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02242	gnpis_pui:unknown:Wheat:CF02242	sample collection	CF02242itkfi	VIRTUAL_TRIAL		low inputs
+CF02242	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02242	gnpis_pui:unknown:Wheat:CF02242	sample collection	CF02242itkt	VIRTUAL_TRIAL		treated
+CF02252	NCBI:4565	Triticum	aestivum	subsp. aestivum	24597	https://doi.org/10.15454/9B1QCJ	sample collection	CF02252itkt	VIRTUAL_TRIAL		treated
+CF02252	NCBI:4565	Triticum	aestivum	subsp. aestivum	24597	https://doi.org/10.15454/9B1QCJ	sample collection	CF02252itkfi	VIRTUAL_TRIAL		low inputs
+CF02266	NCBI:4565	Triticum	aestivum	subsp. aestivum	24598	https://doi.org/10.15454/ETPIWK	sample collection	CF02266itkfi	VIRTUAL_TRIAL		low inputs
+CF02266	NCBI:4565	Triticum	aestivum	subsp. aestivum	24598	https://doi.org/10.15454/ETPIWK	sample collection	CF02266itkt	VIRTUAL_TRIAL		treated
+CF02279	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02279	gnpis_pui:unknown:Wheat:CF02279	sample collection	CF02279itkt	VIRTUAL_TRIAL		treated
+CF02279	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF02279	gnpis_pui:unknown:Wheat:CF02279	sample collection	CF02279itkfi	VIRTUAL_TRIAL		low inputs
+CF02283	NCBI:4565	Triticum	aestivum	subsp. aestivum	24599	https://doi.org/10.15454/EQGEJX	sample collection	CF02283itkfi	VIRTUAL_TRIAL		low inputs
+CF02283	NCBI:4565	Triticum	aestivum	subsp. aestivum	24599	https://doi.org/10.15454/EQGEJX	sample collection	CF02283itkt	VIRTUAL_TRIAL		treated
+CHARGER	NCBI:4565	Triticum	aestivum	subsp. aestivum	13431	https://doi.org/10.15454/0ALDQA	sample collection	Chargeritkfi	VIRTUAL_TRIAL		low inputs
+CHARGER	NCBI:4565	Triticum	aestivum	subsp. aestivum	13431	https://doi.org/10.15454/0ALDQA	sample collection	Chargeritkt	VIRTUAL_TRIAL		treated
+DI03019	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03019	gnpis_pui:unknown:Wheat:DI03019	sample collection	DI03019itkt	VIRTUAL_TRIAL		treated
+DI03019	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03019	gnpis_pui:unknown:Wheat:DI03019	sample collection	1	REPLICATION	[replicate]1; [REPLICATION]1	treated
+DI03019	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03019	gnpis_pui:unknown:Wheat:DI03019	sample collection	DI03019itkfi	VIRTUAL_TRIAL		low inputs
+DI03020	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03020	gnpis_pui:unknown:Wheat:DI03020	sample collection	DI03020itkfi	VIRTUAL_TRIAL		low inputs
+DI03020	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03020	gnpis_pui:unknown:Wheat:DI03020	sample collection	DI03020itkt	VIRTUAL_TRIAL		treated
+DI03021	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03021	gnpis_pui:unknown:Wheat:DI03021	sample collection	DI03021itkt	VIRTUAL_TRIAL		treated
+DI03021	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03021	gnpis_pui:unknown:Wheat:DI03021	sample collection	DI03021itkfi	VIRTUAL_TRIAL		low inputs
+DI03022	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03022	gnpis_pui:unknown:Wheat:DI03022	sample collection	DI03022itkt	VIRTUAL_TRIAL		treated
+DI03022	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03022	gnpis_pui:unknown:Wheat:DI03022	sample collection	DI03022itkfi	VIRTUAL_TRIAL		low inputs
+DI03023	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03023	gnpis_pui:unknown:Wheat:DI03023	sample collection	DI03023itkfi	VIRTUAL_TRIAL		low inputs
+DI03023	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03023	gnpis_pui:unknown:Wheat:DI03023	sample collection	DI03023itkt	VIRTUAL_TRIAL		treated
+DI03024	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03024	gnpis_pui:unknown:Wheat:DI03024	sample collection	DI03024itkfi	VIRTUAL_TRIAL		low inputs
+DI03024	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03024	gnpis_pui:unknown:Wheat:DI03024	sample collection	DI03024itkt	VIRTUAL_TRIAL		treated
+DI03025	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03025	gnpis_pui:unknown:Wheat:DI03025	sample collection	DI03025itkt	VIRTUAL_TRIAL		treated
+DI03025	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03025	gnpis_pui:unknown:Wheat:DI03025	sample collection	DI03025itkfi	VIRTUAL_TRIAL		low inputs
+DI03026	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03026	gnpis_pui:unknown:Wheat:DI03026	sample collection	DI03026itkt	VIRTUAL_TRIAL		treated
+DI03026	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI03026	gnpis_pui:unknown:Wheat:DI03026	sample collection	DI03026itkfi	VIRTUAL_TRIAL		low inputs
+EM02147	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02147	gnpis_pui:unknown:Wheat:EM02147	sample collection	EM02147itkt	VIRTUAL_TRIAL		treated
+EM02147	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02147	gnpis_pui:unknown:Wheat:EM02147	sample collection	EM02147itkfi	VIRTUAL_TRIAL		low inputs
+EM02157	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02157	gnpis_pui:unknown:Wheat:EM02157	sample collection	EM02157itkt	VIRTUAL_TRIAL		treated
+EM02157	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02157	gnpis_pui:unknown:Wheat:EM02157	sample collection	EM02157itkfi	VIRTUAL_TRIAL		low inputs
+EM02158	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02158	gnpis_pui:unknown:Wheat:EM02158	sample collection	EM02158itkt	VIRTUAL_TRIAL		treated
+EM02158	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02158	gnpis_pui:unknown:Wheat:EM02158	sample collection	EM02158itkfi	VIRTUAL_TRIAL		low inputs
+EM02159	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02159	gnpis_pui:unknown:Wheat:EM02159	sample collection	EM02159itkt	VIRTUAL_TRIAL		treated
+EM02159	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02159	gnpis_pui:unknown:Wheat:EM02159	sample collection	EM02159itkfi	VIRTUAL_TRIAL		low inputs
+EM02164	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02164	gnpis_pui:unknown:Wheat:EM02164	sample collection	EM02164itkt	VIRTUAL_TRIAL		treated
+EM02164	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02164	gnpis_pui:unknown:Wheat:EM02164	sample collection	EM02164itkfi	VIRTUAL_TRIAL		low inputs
+EM02196	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02196	gnpis_pui:unknown:Wheat:EM02196	sample collection	EM02196itkfi	VIRTUAL_TRIAL		low inputs
+EM02196	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02196	gnpis_pui:unknown:Wheat:EM02196	sample collection	EM02196itkt	VIRTUAL_TRIAL		treated
+EM02201	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02201	gnpis_pui:unknown:Wheat:EM02201	sample collection	EM02201itkt	VIRTUAL_TRIAL		treated
+EM02201	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02201	gnpis_pui:unknown:Wheat:EM02201	sample collection	EM02201itkfi	VIRTUAL_TRIAL		low inputs
+EM02203	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02203	gnpis_pui:unknown:Wheat:EM02203	sample collection	EM02203itkfi	VIRTUAL_TRIAL		low inputs
+EM02203	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM02203	gnpis_pui:unknown:Wheat:EM02203	sample collection	EM02203itkt	VIRTUAL_TRIAL		treated
+EM02207	NCBI:4565	Triticum	aestivum	subsp. aestivum	29816	https://doi.org/10.15454/WDQKPV	sample collection	EM02207itkt	VIRTUAL_TRIAL		treated
+EM02207	NCBI:4565	Triticum	aestivum	subsp. aestivum	29816	https://doi.org/10.15454/WDQKPV	sample collection	EM02207itkfi	VIRTUAL_TRIAL		low inputs
+EM02209	NCBI:4565	Triticum	aestivum	subsp. aestivum	24589	https://doi.org/10.15454/CCL96G	sample collection	EM02209itkt	VIRTUAL_TRIAL		treated
+EM02209	NCBI:4565	Triticum	aestivum	subsp. aestivum	24589	https://doi.org/10.15454/CCL96G	sample collection	EM02209itkfi	VIRTUAL_TRIAL		low inputs
+EM02224	NCBI:4565	Triticum	aestivum	subsp. aestivum	28847	https://doi.org/10.15454/MJW2ZX	sample collection	EM02224itkt	VIRTUAL_TRIAL		treated
+EM02224	NCBI:4565	Triticum	aestivum	subsp. aestivum	28847	https://doi.org/10.15454/MJW2ZX	sample collection	EM02224itkfi	VIRTUAL_TRIAL		low inputs
+ISENGRAIN	NCBI:4565	Triticum	aestivum	subsp. aestivum	13433	https://doi.org/10.15454/YZZGYB	sample collection	Isengrainitkt	VIRTUAL_TRIAL		treated
+ISENGRAIN	NCBI:4565	Triticum	aestivum	subsp. aestivum	13433	https://doi.org/10.15454/YZZGYB	sample collection	Isengrainitkfi	VIRTUAL_TRIAL		low inputs
+RE01047	NCBI:4565	Triticum	aestivum	subsp. aestivum	23819	https://doi.org/10.15454/3W80FR	sample collection	RE01047itkt	VIRTUAL_TRIAL		treated
+RE01047	NCBI:4565	Triticum	aestivum	subsp. aestivum	23819	https://doi.org/10.15454/3W80FR	sample collection	RE01047itkfi	VIRTUAL_TRIAL		low inputs
+RE01052	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE01052	gnpis_pui:unknown:Wheat:RE01052	sample collection	RE01052itkt	VIRTUAL_TRIAL		treated
+RE01052	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE01052	gnpis_pui:unknown:Wheat:RE01052	sample collection	RE01052itkfi	VIRTUAL_TRIAL		low inputs
+RE02009	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02009	gnpis_pui:unknown:Wheat:RE02009	sample collection	RE02009itkfi	VIRTUAL_TRIAL		low inputs
+RE02009	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02009	gnpis_pui:unknown:Wheat:RE02009	sample collection	RE02009itkt	VIRTUAL_TRIAL		treated
+RE02016	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02016	gnpis_pui:unknown:Wheat:RE02016	sample collection	RE02016itkfi	VIRTUAL_TRIAL		low inputs
+RE02016	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02016	gnpis_pui:unknown:Wheat:RE02016	sample collection	RE02016itkt	VIRTUAL_TRIAL		treated
+RE02080	NCBI:4565	Triticum	aestivum	subsp. aestivum	23822	https://doi.org/10.15454/AM3GAN	sample collection	RE02080itkfi	VIRTUAL_TRIAL		low inputs
+RE02080	NCBI:4565	Triticum	aestivum	subsp. aestivum	23822	https://doi.org/10.15454/AM3GAN	sample collection	RE02080itkt	VIRTUAL_TRIAL		treated
+RE02084	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02084	gnpis_pui:unknown:Wheat:RE02084	sample collection	RE02084itkfi	VIRTUAL_TRIAL		low inputs
+RE02084	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02084	gnpis_pui:unknown:Wheat:RE02084	sample collection	RE02084itkt	VIRTUAL_TRIAL		treated
+RE02086	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02086	gnpis_pui:unknown:Wheat:RE02086	sample collection	RE02086itkfi	VIRTUAL_TRIAL		low inputs
+RE02086	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02086	gnpis_pui:unknown:Wheat:RE02086	sample collection	RE02086itkt	VIRTUAL_TRIAL		treated
+RE02113	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02113	gnpis_pui:unknown:Wheat:RE02113	sample collection	RE02113itkt	VIRTUAL_TRIAL		treated
+RE02113	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02113	gnpis_pui:unknown:Wheat:RE02113	sample collection	RE02113itkfi	VIRTUAL_TRIAL		low inputs
+RE02116	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02116	gnpis_pui:unknown:Wheat:RE02116	sample collection	RE02116itkt	VIRTUAL_TRIAL		treated
+RE02116	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02116	gnpis_pui:unknown:Wheat:RE02116	sample collection	RE02116itkfi	VIRTUAL_TRIAL		low inputs
+RE02178	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02178	gnpis_pui:unknown:Wheat:RE02178	sample collection	RE02178itkfi	VIRTUAL_TRIAL		low inputs
+RE02178	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02178	gnpis_pui:unknown:Wheat:RE02178	sample collection	RE02178itkt	VIRTUAL_TRIAL		treated
+RE02181	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02181	gnpis_pui:unknown:Wheat:RE02181	sample collection	2	REPLICATION	[replicate]2; [REPLICATION]2	low inputs
+RE02181	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02181	gnpis_pui:unknown:Wheat:RE02181	sample collection	RE02181itkt	VIRTUAL_TRIAL		treated
+RE02181	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE02181	gnpis_pui:unknown:Wheat:RE02181	sample collection	RE02181itkfi	VIRTUAL_TRIAL		low inputs
+SOISSONS	NCBI:4565	Triticum	aestivum	subsp. aestivum	6607	https://doi.org/10.15454/ZRMNO2	sample collection	Soissonsitkfi	VIRTUAL_TRIAL		low inputs
+SOISSONS	NCBI:4565	Triticum	aestivum	subsp. aestivum	6607	https://doi.org/10.15454/ZRMNO2	sample collection	Soissonsitkt	VIRTUAL_TRIAL		treated

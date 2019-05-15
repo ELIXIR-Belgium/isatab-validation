@@ -1,0 +1,916 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI
+Term Source File	
+Term Source Version	
+Term Source Description	Ontology for Biomedical Investigation
+INVESTIGATION
+Investigation Identifier	1
+Investigation Title	RIL_2-way_growth_chamber
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+Comment[MIAPPE version]	1.1
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID	
+Investigation Publication DOI	10.1186/s13059-015-0735-9
+Investigation Publication Author List	
+Investigation Publication Title	
+Investigation Publication Status	published
+Investigation Publication Status Term Accession Number	
+Investigation Publication Status Term Source REF	
+INVESTIGATION CONTACTS
+Investigation Person Last Name	Baute
+Investigation Person First Name	Joke
+Investigation Person Mid Initials	
+Investigation Person Email	joke.baute@vib.be
+Investigation Person Phone	
+Investigation Person Fax	
+Investigation Person Address	
+Investigation Person Affiliation	VIB
+Investigation Person Roles	
+Investigation Person Roles Term Accession Number	
+Investigation Person Roles Term Source REF	
+STUDY
+Study Identifier	VIB_study___27
+Study Title	RIL 2-way  batch 1
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___27.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2011-10-18
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2011-09-21
+Comment[Trait Definition File]	t_VIB_study___27.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___27_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___36
+Study Title	RIL 2-way  batch 10
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___36.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-08-14
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-07-18
+Comment[Trait Definition File]	t_VIB_study___36.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___36_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___37
+Study Title	RIL 2-way  batch 11
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___37.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-09-11
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-08-15
+Comment[Trait Definition File]	t_VIB_study___37.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___37_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___38
+Study Title	RIL 2-way  batch 13
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___38.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-11-06
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-10-10
+Comment[Trait Definition File]	t_VIB_study___38.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___38_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___39
+Study Title	RIL 2-way  batch 14
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___39.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-12-11
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-11-14
+Comment[Trait Definition File]	t_VIB_study___39.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___39_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___28
+Study Title	RIL 2-way  batch 2
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___28.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2011-11-21
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2011-10-25
+Comment[Trait Definition File]	t_VIB_study___28.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___28_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___29
+Study Title	RIL 2-way  batch 3
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___29.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2011-12-20
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2011-11-23
+Comment[Trait Definition File]	t_VIB_study___29.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___29_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___30
+Study Title	RIL 2-way  batch 4
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___30.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-01-31
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-01-04
+Comment[Trait Definition File]	t_VIB_study___30.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___30_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___31
+Study Title	RIL 2-way  batch 5
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___31.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-02-28
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-02-01
+Comment[Trait Definition File]	t_VIB_study___31.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___31_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___32
+Study Title	RIL 2-way  batch 6
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___32.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-03-27
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-02-29
+Comment[Trait Definition File]	t_VIB_study___32.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___32_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___33
+Study Title	RIL 2-way  batch 7
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___33.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-04-24
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-03-28
+Comment[Trait Definition File]	t_VIB_study___33.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___33_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___34
+Study Title	RIL 2-way  batch 8
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___34.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-05-22
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-04-25
+Comment[Trait Definition File]	t_VIB_study___34.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___34_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF
+STUDY
+Study Identifier	VIB_study___35
+Study Title	RIL 2-way  batch 9
+Study Description	Short description of the experimental design, possibly including statistical design.
+Study Submission Date	
+Study Public Release Date	
+Study File Name	s_VIB_study___35.txt
+Comment[Study Altitude]	
+Comment[Study Country]	BE
+Comment[Study End Date]	2012-06-19
+Comment[Study Experimental Site]	growth chamber
+Comment[Study Latitude]	
+Comment[Study Longitude]	
+Comment[Study Start Date]	2012-05-23
+Comment[Trait Definition File]	t_VIB_study___35.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_VIB_study___35_plant.txt
+Study Assay Measurement Type	phenotyping
+Study Assay Measurement Type Term Accession Number	
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type Term Accession Number	
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	sample collection	phenotyping
+Study Protocol Type	sample collection	nucleic acid sequencing
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description		
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name		
+Study Protocol Parameters Name Term Accession Number		
+Study Protocol Parameters Name Term Source REF		
+Study Protocol Components Name		
+Study Protocol Components Type		
+Study Protocol Components Type Term Accession Number		
+Study Protocol Components Type Term Source REF		
+STUDY CONTACTS
+Study Person Last Name
+Study Person First Name
+Study Person Mid Initials
+Study Person Email
+Study Person Phone
+Study Person Fax
+Study Person Address
+Study Person Affiliation
+Study Person Roles
+Study Person Roles Term Accession Number
+Study Person Roles Term Source REF

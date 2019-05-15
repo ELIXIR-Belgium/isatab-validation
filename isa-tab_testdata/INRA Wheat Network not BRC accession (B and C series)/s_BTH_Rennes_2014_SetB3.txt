@@ -1,0 +1,41 @@
+Source Name	Characteristics[Organism]	Characteristics[Genus]	Characteristics[Species]	Characteristics[Infraspecific Name]	Characteristics[Material Source ID]	Characteristics[Material Source DOI]	Protocol REF	Sample Name	Characteristics[Observation Unit Type]	Characteristics[Spatial Distribution]	Factor Value[itk]
+AO14023	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14023	https://doi.org/10.15454/RZZTFZ	sample collection	AO14023itkfi	VIRTUAL_TRIAL		low inputs
+AO14024	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14024	https://doi.org/10.15454/I3WB3P	sample collection	AO14024itkfi	VIRTUAL_TRIAL		low inputs
+AO14025	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14025	https://doi.org/10.15454/PSDVDT	sample collection	AO14025itkfi	VIRTUAL_TRIAL		low inputs
+AO14026	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14026	https://doi.org/10.15454/ZZZLIR	sample collection	AO14026itkfi	VIRTUAL_TRIAL		low inputs
+AO14027	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14027	https://doi.org/10.15454/AJRNQX	sample collection	AO14027itkfi	VIRTUAL_TRIAL		low inputs
+AO14028	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14028	https://doi.org/10.15454/FMXV4A	sample collection	AO14028itkfi	VIRTUAL_TRIAL		low inputs
+AO14034	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14034	https://doi.org/10.15454/HXGH2V	sample collection	AO14034itkfi	VIRTUAL_TRIAL		low inputs
+AO14035	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14035	https://doi.org/10.15454/XJIDYV	sample collection	AO14035itkfi	VIRTUAL_TRIAL		low inputs
+AO14036	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14036	https://doi.org/10.15454/OW857E	sample collection	AO14036itkfi	VIRTUAL_TRIAL		low inputs
+AO14037	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14037	https://doi.org/10.15454/QDTHNJ	sample collection	AO14037itkfi	VIRTUAL_TRIAL		low inputs
+AO14038	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14038	https://doi.org/10.15454/GS4MJR	sample collection	AO14038itkfi	VIRTUAL_TRIAL		low inputs
+AO14039	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14039	https://doi.org/10.15454/WFL1YX	sample collection	AO14039itkfi	VIRTUAL_TRIAL		low inputs
+AO14040	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14040	https://doi.org/10.15454/NZO2Q6	sample collection	AO14040itkfi	VIRTUAL_TRIAL		low inputs
+AO14041	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14041	https://doi.org/10.15454/BHRDHY	sample collection	AO14041itkfi	VIRTUAL_TRIAL		low inputs
+AO14042	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14042	https://doi.org/10.15454/0FSIBQ	sample collection	AO14042itkfi	VIRTUAL_TRIAL		low inputs
+AO14043	NCBI:4565	Triticum	aestivum	subsp. aestivum	AO14043	https://doi.org/10.15454/M36YSX	sample collection	AO14043itkfi	VIRTUAL_TRIAL		low inputs
+APACHE	NCBI:4565	Triticum	aestivum	subsp. aestivum	13481	https://doi.org/10.15454/V8WRHY	sample collection	Apacheitkfi	VIRTUAL_TRIAL		low inputs
+APACHE	NCBI:4565	Triticum	aestivum	subsp. aestivum	13481	https://doi.org/10.15454/V8WRHY	sample collection	2	REPLICATION	[replicate]2; [REPLICATION]2	low inputs
+AREZZO	NCBI:4565	Triticum	aestivum	subsp. aestivum	32759	https://doi.org/10.15454/SFNXCW	sample collection	Arezzoitkfi	VIRTUAL_TRIAL		low inputs
+BAROK	NCBI:4565	Triticum	aestivum	subsp. aestivum	32101	https://doi.org/10.15454/Z3MNYF	sample collection	Barokitkfi	VIRTUAL_TRIAL		low inputs
+BERMUDE	NCBI:4565	Triticum	aestivum	subsp. aestivum	29852	https://doi.org/10.15454/W1NSZX	sample collection	Bermudeitkfi	VIRTUAL_TRIAL		low inputs
+CF13081	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF13081	https://doi.org/10.15454/P97IAI	sample collection	CF13081itkfi	VIRTUAL_TRIAL		low inputs
+CF13158	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF13158	https://doi.org/10.15454/BOXBBY	sample collection	CF13158itkfi	VIRTUAL_TRIAL		low inputs
+CF13172	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF13172	https://doi.org/10.15454/M3XNKU	sample collection	CF13172itkfi	VIRTUAL_TRIAL		low inputs
+CF13187	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF13187	https://doi.org/10.15454/RVUPRG	sample collection	CF13187itkfi	VIRTUAL_TRIAL		low inputs
+CF13217	NCBI:4565	Triticum	aestivum	subsp. aestivum	CF13217	https://doi.org/10.15454/JHCWMY	sample collection	CF13217itkfi	VIRTUAL_TRIAL		low inputs
+DI14004	NCBI:4565	Triticum	aestivum	subsp. aestivum	DI14004	https://doi.org/10.15454/QTCIDC	sample collection	DI14004itkfi	VIRTUAL_TRIAL		low inputs
+EM13147	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM13147	https://doi.org/10.15454/J7IR6N	sample collection	EM13147itkfi	VIRTUAL_TRIAL		low inputs
+EM13243	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM13243	https://doi.org/10.15454/QSZ1IX	sample collection	EM13243itkfi	VIRTUAL_TRIAL		low inputs
+EM13249	NCBI:4565	Triticum	aestivum	subsp. aestivum	EM13249	https://doi.org/10.15454/NTKRK8	sample collection	EM13249itkfi	VIRTUAL_TRIAL		low inputs
+RE13107	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13107	https://doi.org/10.15454/EM4KCZ	sample collection	RE13107itkfi	VIRTUAL_TRIAL		low inputs
+RE13114	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13114	https://doi.org/10.15454/DGKIW1	sample collection	RE13114itkfi	VIRTUAL_TRIAL		low inputs
+RE13114	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13114	https://doi.org/10.15454/DGKIW1	sample collection	1	REPLICATION	[replicate]1; [REPLICATION]1	low inputs
+RE13116	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13116	https://doi.org/10.15454/N7NCR1	sample collection	RE13116itkfi	VIRTUAL_TRIAL		low inputs
+RE13121	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13121	https://doi.org/10.15454/Y9GQYH	sample collection	RE13121itkfi	VIRTUAL_TRIAL		low inputs
+RE13128	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13128	https://doi.org/10.15454/CRFPXR	sample collection	RE13128itkfi	VIRTUAL_TRIAL		low inputs
+RE13138	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE13138	https://doi.org/10.15454/8DCW8F	sample collection	RE13138itkfi	VIRTUAL_TRIAL		low inputs
+RE14129	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE14129	https://doi.org/10.15454/1WRXMZ	sample collection	RE14129itkfi	VIRTUAL_TRIAL		low inputs
+RE14131	NCBI:4565	Triticum	aestivum	subsp. aestivum	RE14131	https://doi.org/10.15454/AN5PQB	sample collection	RE14131itkfi	VIRTUAL_TRIAL		low inputs
+RUBISKO	NCBI:4565	Triticum	aestivum	subsp. aestivum	36680	https://doi.org/10.15454/XSC5N7	sample collection	Rubiskoitkfi	VIRTUAL_TRIAL		low inputs

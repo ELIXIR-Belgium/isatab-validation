@@ -1,0 +1,10 @@
+Variable ID	Variable Name	Trait	Method	Method Description	Scale
+WIPO:0000074	GY_q/ha	Grain yield	Direct measure	Mesure directe # ModeOp Arvalis = Récolte machine  RDT 0%	q/ha
+WIPO:0000099	LS_score	Lodging score	Direct measure	Mesure directe # ModeOp Arvalis = Echelle de 1-10 prenant en compte le %surface versée et l'angle de verse	1 to 9 note
+WIPO:0000145	PM-SCORE_score	Powdey mildew score	PM-SCORE_score		1 to 9 note
+WIPO:0000162	YR-SCORE_score	Disease score Yellow Rust	YR-SCORE_score		1 to 9 note
+WIPO:0000217	r	Yield	r	Yield expressed as a percentage of the average yield of reference varieties.	%
+WIPO:0000218	ht	Plant height	ht		cm
+WIPO:0000219	prec	Precocity	prec		d
+WIPO:0000220	ps	Test weight	ps	Weight of 100 litres of grain.	kg/hl
+WIPO:0000221	rb	Susceptibility to leaf rust	rb	Disease intensity score on a 1 to 9 increasing scale (1: no disease, 9: very severe).	1 to 9 note
