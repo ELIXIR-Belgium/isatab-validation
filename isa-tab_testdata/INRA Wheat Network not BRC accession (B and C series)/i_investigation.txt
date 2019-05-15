@@ -67,7 +67,7 @@ Study Assay File Name	a_BTH_Colmar_2000_SetB1_VIRTUAL_TRIAL.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	VIRTUAL_TRIAL multimodal technique
+Study Assay Technology Type	VIRTUAL_TRIAL level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -131,11 +131,11 @@ Study Factor Type	itk
 Study Factor Type Term Accession Number	
 Study Factor Type Term Source REF	
 STUDY ASSAYS
-Study Assay File Name	a_BTH_Le_Moulon_2000_SetB2_REPLICATION.txt	a_BTH_Le_Moulon_2000_SetB2_VIRTUAL_TRIAL.txt
+Study Assay File Name	a_BTH_Le_Moulon_2000_SetB2_VIRTUAL_TRIAL.txt	a_BTH_Le_Moulon_2000_SetB2_REPLICATION.txt
 Study Assay Measurement Type	phenotyping	phenotyping
 Study Assay Measurement Type Term Accession Number		
 Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
+Study Assay Technology Type	VIRTUAL_TRIAL level analysis	REPLICATION level analysis
 Study Assay Technology Type Term Accession Number		
 Study Assay Technology Type Term Source REF	OBI	OBI
 Study Assay Technology Platform		
@@ -199,11 +199,11 @@ Study Factor Type	itk
 Study Factor Type Term Accession Number	
 Study Factor Type Term Source REF	
 STUDY ASSAYS
-Study Assay File Name	a_BTH_Le_Moulon_2003_SetB3_REPLICATION.txt	a_BTH_Le_Moulon_2003_SetB3_VIRTUAL_TRIAL.txt
+Study Assay File Name	a_BTH_Le_Moulon_2003_SetB3_VIRTUAL_TRIAL.txt	a_BTH_Le_Moulon_2003_SetB3_REPLICATION.txt
 Study Assay Measurement Type	phenotyping	phenotyping
 Study Assay Measurement Type Term Accession Number		
 Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
+Study Assay Technology Type	VIRTUAL_TRIAL level analysis	REPLICATION level analysis
 Study Assay Technology Type Term Accession Number		
 Study Assay Technology Type Term Source REF	OBI	OBI
 Study Assay Technology Platform		
@@ -267,11 +267,11 @@ Study Factor Type	itk
 Study Factor Type Term Accession Number	
 Study Factor Type Term Source REF	
 STUDY ASSAYS
-Study Assay File Name	a_BTH_Dijon_2005_SetB1_REPLICATION.txt	a_BTH_Dijon_2005_SetB1_VIRTUAL_TRIAL.txt
+Study Assay File Name	a_BTH_Dijon_2005_SetB1_VIRTUAL_TRIAL.txt	a_BTH_Dijon_2005_SetB1_REPLICATION.txt
 Study Assay Measurement Type	phenotyping	phenotyping
 Study Assay Measurement Type Term Accession Number		
 Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
+Study Assay Technology Type	VIRTUAL_TRIAL level analysis	REPLICATION level analysis
 Study Assay Technology Type Term Accession Number		
 Study Assay Technology Type Term Source REF	OBI	OBI
 Study Assay Technology Platform		
@@ -335,351 +335,11 @@ Study Factor Type	itk
 Study Factor Type Term Accession Number	
 Study Factor Type Term Source REF	
 STUDY ASSAYS
-Study Assay File Name	a_BTH_Orgeval_2007_SetB3_REPLICATION.txt	a_BTH_Orgeval_2007_SetB3_VIRTUAL_TRIAL.txt
+Study Assay File Name	a_BTH_Orgeval_2007_SetB3_VIRTUAL_TRIAL.txt	a_BTH_Orgeval_2007_SetB3_REPLICATION.txt
 Study Assay Measurement Type	phenotyping	phenotyping
 Study Assay Measurement Type Term Accession Number		
 Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
-Study Assay Technology Type Term Accession Number		
-Study Assay Technology Type Term Source REF	OBI	OBI
-Study Assay Technology Platform		
-STUDY PROTOCOLS
-Study Protocol Name	sample collection	phenotyping
-Study Protocol Type	sample collection	nucleic acid sequencing
-Study Protocol Type Term Accession Number		
-Study Protocol Type Term Source REF		
-Study Protocol Description		
-Study Protocol URI		
-Study Protocol Version		
-Study Protocol Parameters Name		
-Study Protocol Parameters Name Term Accession Number		
-Study Protocol Parameters Name Term Source REF		
-Study Protocol Components Name		
-Study Protocol Components Type		
-Study Protocol Components Type Term Accession Number		
-Study Protocol Components Type Term Source REF		
-STUDY CONTACTS
-Study Person Last Name	CHARMET	HEUMEZ	OURY	ROLLAND	GAUFFRETEAU
-Study Person First Name	Gilles	Emmanuel	Francois-Xavier	Bernard	Arnaud
-Study Person Mid Initials					
-Study Person Email	charmet@clermont.inra.fr	emmanuel.heumez@mons.inra.fr	Francois-Xavier.OURY@clermont.inra.fr	bernard.rolland@inra.fr	gauffret@grignon.inra.fr
-Study Person Phone					
-Study Person Fax					
-Study Person Address					
-Study Person Affiliation	UMR INRA-UBP Amilioration & Santi des Plantes	Mons	INRA	INRA	INRA
-Study Person Roles					
-Study Person Roles Term Accession Number					
-Study Person Roles Term Source REF					
-STUDY
-Study Identifier	BTH_Rennes_2008_SetB1_PIETIN-VERSE
-Study Title	BTH_Rennes_2008_SetB1_PIETIN-VERSE
-Study Description	
-Study Submission Date	
-Study Public Release Date	
-Study File Name	s_BTH_Rennes_2008_SetB1_PIETIN-VERSE.txt
-Comment[Study Altitude]	
-Comment[Study Country]	FR
-Comment[Study End Date]	2008-07-31
-Comment[Study Experimental Site]	Rennes
-Comment[Study Latitude]	
-Comment[Study Longitude]	
-Comment[Study Start Date]	2007-10-20
-Comment[Trait Definition File]	t_BTH_Rennes_2008_SetB1_PIETIN-VERSE.txt
-STUDY DESIGN DESCRIPTORS
-Study Design Type	
-Study Design Type Term Accession Number	
-Study Design Type Term Source REF	
-STUDY PUBLICATIONS
-Study PubMed ID
-Study Publication DOI
-Study Publication Author List
-Study Publication Title
-Study Publication Status
-Study Publication Status Term Accession Number
-Study Publication Status Term Source REF
-STUDY FACTORS
-Study Factor Name
-Study Factor Type
-Study Factor Type Term Accession Number
-Study Factor Type Term Source REF
-STUDY ASSAYS
-Study Assay File Name	a_BTH_Rennes_2008_SetB1_PIETIN-VERSE_VIRTUAL_TRIAL.txt
-Study Assay Measurement Type	phenotyping
-Study Assay Measurement Type Term Accession Number	
-Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	VIRTUAL_TRIAL multimodal technique
-Study Assay Technology Type Term Accession Number	
-Study Assay Technology Type Term Source REF	OBI
-Study Assay Technology Platform	
-STUDY PROTOCOLS
-Study Protocol Name	sample collection	phenotyping
-Study Protocol Type	sample collection	nucleic acid sequencing
-Study Protocol Type Term Accession Number		
-Study Protocol Type Term Source REF		
-Study Protocol Description		
-Study Protocol URI		
-Study Protocol Version		
-Study Protocol Parameters Name		
-Study Protocol Parameters Name Term Accession Number		
-Study Protocol Parameters Name Term Source REF		
-Study Protocol Components Name		
-Study Protocol Components Type		
-Study Protocol Components Type Term Accession Number		
-Study Protocol Components Type Term Source REF		
-STUDY CONTACTS
-Study Person Last Name	CHARMET	HEUMEZ	OURY	ROLLAND	GAUFFRETEAU
-Study Person First Name	Gilles	Emmanuel	Francois-Xavier	Bernard	Arnaud
-Study Person Mid Initials					
-Study Person Email	charmet@clermont.inra.fr	emmanuel.heumez@mons.inra.fr	Francois-Xavier.OURY@clermont.inra.fr	bernard.rolland@inra.fr	gauffret@grignon.inra.fr
-Study Person Phone					
-Study Person Fax					
-Study Person Address					
-Study Person Affiliation	UMR INRA-UBP Amilioration & Santi des Plantes	Mons	INRA	INRA	INRA
-Study Person Roles					
-Study Person Roles Term Accession Number					
-Study Person Roles Term Source REF					
-STUDY
-Study Identifier	BTH_Lusignan_2008_SetB2
-Study Title	BTH_Lusignan_2008_SetB2
-Study Description	
-Study Submission Date	
-Study Public Release Date	
-Study File Name	s_BTH_Lusignan_2008_SetB2.txt
-Comment[Study Altitude]	
-Comment[Study Country]	FR
-Comment[Study End Date]	2008-07-31
-Comment[Study Experimental Site]	Lusignan
-Comment[Study Latitude]	46.4
-Comment[Study Longitude]	0.07
-Comment[Study Start Date]	2007-10-20
-Comment[Trait Definition File]	t_BTH_Lusignan_2008_SetB2.txt
-STUDY DESIGN DESCRIPTORS
-Study Design Type	
-Study Design Type Term Accession Number	
-Study Design Type Term Source REF	
-STUDY PUBLICATIONS
-Study PubMed ID
-Study Publication DOI
-Study Publication Author List
-Study Publication Title
-Study Publication Status
-Study Publication Status Term Accession Number
-Study Publication Status Term Source REF
-STUDY FACTORS
-Study Factor Name	itk
-Study Factor Type	itk
-Study Factor Type Term Accession Number	
-Study Factor Type Term Source REF	
-STUDY ASSAYS
-Study Assay File Name	a_BTH_Lusignan_2008_SetB2_VIRTUAL_TRIAL.txt	a_BTH_Lusignan_2008_SetB2_REPLICATION.txt
-Study Assay Measurement Type	phenotyping	phenotyping
-Study Assay Measurement Type Term Accession Number		
-Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	VIRTUAL_TRIAL multimodal technique	REPLICATION multimodal technique
-Study Assay Technology Type Term Accession Number		
-Study Assay Technology Type Term Source REF	OBI	OBI
-Study Assay Technology Platform		
-STUDY PROTOCOLS
-Study Protocol Name	sample collection	phenotyping
-Study Protocol Type	sample collection	nucleic acid sequencing
-Study Protocol Type Term Accession Number		
-Study Protocol Type Term Source REF		
-Study Protocol Description		
-Study Protocol URI		
-Study Protocol Version		
-Study Protocol Parameters Name		
-Study Protocol Parameters Name Term Accession Number		
-Study Protocol Parameters Name Term Source REF		
-Study Protocol Components Name		
-Study Protocol Components Type		
-Study Protocol Components Type Term Accession Number		
-Study Protocol Components Type Term Source REF		
-STUDY CONTACTS
-Study Person Last Name	CHARMET	HEUMEZ	OURY	ROLLAND	GAUFFRETEAU
-Study Person First Name	Gilles	Emmanuel	Francois-Xavier	Bernard	Arnaud
-Study Person Mid Initials					
-Study Person Email	charmet@clermont.inra.fr	emmanuel.heumez@mons.inra.fr	Francois-Xavier.OURY@clermont.inra.fr	bernard.rolland@inra.fr	gauffret@grignon.inra.fr
-Study Person Phone					
-Study Person Fax					
-Study Person Address					
-Study Person Affiliation	UMR INRA-UBP Amilioration & Santi des Plantes	Mons	INRA	INRA	INRA
-Study Person Roles					
-Study Person Roles Term Accession Number					
-Study Person Roles Term Source REF					
-STUDY
-Study Identifier	BTH_Orgeval_2011_SetB1
-Study Title	BTH_Orgeval_2011_SetB1
-Study Description	
-Study Submission Date	
-Study Public Release Date	
-Study File Name	s_BTH_Orgeval_2011_SetB1.txt
-Comment[Study Altitude]	
-Comment[Study Country]	FR
-Comment[Study End Date]	2011-07-31
-Comment[Study Experimental Site]	Orgeval
-Comment[Study Latitude]	
-Comment[Study Longitude]	
-Comment[Study Start Date]	2010-10-20
-Comment[Trait Definition File]	t_BTH_Orgeval_2011_SetB1.txt
-STUDY DESIGN DESCRIPTORS
-Study Design Type	
-Study Design Type Term Accession Number	
-Study Design Type Term Source REF	
-STUDY PUBLICATIONS
-Study PubMed ID
-Study Publication DOI
-Study Publication Author List
-Study Publication Title
-Study Publication Status
-Study Publication Status Term Accession Number
-Study Publication Status Term Source REF
-STUDY FACTORS
-Study Factor Name	itk
-Study Factor Type	itk
-Study Factor Type Term Accession Number	
-Study Factor Type Term Source REF	
-STUDY ASSAYS
-Study Assay File Name	a_BTH_Orgeval_2011_SetB1_REPLICATION.txt	a_BTH_Orgeval_2011_SetB1_VIRTUAL_TRIAL.txt
-Study Assay Measurement Type	phenotyping	phenotyping
-Study Assay Measurement Type Term Accession Number		
-Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
-Study Assay Technology Type Term Accession Number		
-Study Assay Technology Type Term Source REF	OBI	OBI
-Study Assay Technology Platform		
-STUDY PROTOCOLS
-Study Protocol Name	sample collection	phenotyping
-Study Protocol Type	sample collection	nucleic acid sequencing
-Study Protocol Type Term Accession Number		
-Study Protocol Type Term Source REF		
-Study Protocol Description		
-Study Protocol URI		
-Study Protocol Version		
-Study Protocol Parameters Name		
-Study Protocol Parameters Name Term Accession Number		
-Study Protocol Parameters Name Term Source REF		
-Study Protocol Components Name		
-Study Protocol Components Type		
-Study Protocol Components Type Term Accession Number		
-Study Protocol Components Type Term Source REF		
-STUDY CONTACTS
-Study Person Last Name	CHARMET	HEUMEZ	OURY	ROLLAND	GAUFFRETEAU
-Study Person First Name	Gilles	Emmanuel	Francois-Xavier	Bernard	Arnaud
-Study Person Mid Initials					
-Study Person Email	charmet@clermont.inra.fr	emmanuel.heumez@mons.inra.fr	Francois-Xavier.OURY@clermont.inra.fr	bernard.rolland@inra.fr	gauffret@grignon.inra.fr
-Study Person Phone					
-Study Person Fax					
-Study Person Address					
-Study Person Affiliation	UMR INRA-UBP Amilioration & Santi des Plantes	Mons	INRA	INRA	INRA
-Study Person Roles					
-Study Person Roles Term Accession Number					
-Study Person Roles Term Source REF					
-STUDY
-Study Identifier	BTH_Rennes_2011_SetB2_PIETIN-VERSE
-Study Title	BTH_Rennes_2011_SetB2_PIETIN-VERSE
-Study Description	
-Study Submission Date	
-Study Public Release Date	
-Study File Name	s_BTH_Rennes_2011_SetB2_PIETIN-VERSE.txt
-Comment[Study Altitude]	
-Comment[Study Country]	FR
-Comment[Study End Date]	2011-07-31
-Comment[Study Experimental Site]	Rennes
-Comment[Study Latitude]	
-Comment[Study Longitude]	
-Comment[Study Start Date]	2010-10-20
-Comment[Trait Definition File]	t_BTH_Rennes_2011_SetB2_PIETIN-VERSE.txt
-STUDY DESIGN DESCRIPTORS
-Study Design Type	
-Study Design Type Term Accession Number	
-Study Design Type Term Source REF	
-STUDY PUBLICATIONS
-Study PubMed ID
-Study Publication DOI
-Study Publication Author List
-Study Publication Title
-Study Publication Status
-Study Publication Status Term Accession Number
-Study Publication Status Term Source REF
-STUDY FACTORS
-Study Factor Name
-Study Factor Type
-Study Factor Type Term Accession Number
-Study Factor Type Term Source REF
-STUDY ASSAYS
-Study Assay File Name	a_BTH_Rennes_2011_SetB2_PIETIN-VERSE_VIRTUAL_TRIAL.txt
-Study Assay Measurement Type	phenotyping
-Study Assay Measurement Type Term Accession Number	
-Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	VIRTUAL_TRIAL multimodal technique
-Study Assay Technology Type Term Accession Number	
-Study Assay Technology Type Term Source REF	OBI
-Study Assay Technology Platform	
-STUDY PROTOCOLS
-Study Protocol Name	sample collection	phenotyping
-Study Protocol Type	sample collection	nucleic acid sequencing
-Study Protocol Type Term Accession Number		
-Study Protocol Type Term Source REF		
-Study Protocol Description		
-Study Protocol URI		
-Study Protocol Version		
-Study Protocol Parameters Name		
-Study Protocol Parameters Name Term Accession Number		
-Study Protocol Parameters Name Term Source REF		
-Study Protocol Components Name		
-Study Protocol Components Type		
-Study Protocol Components Type Term Accession Number		
-Study Protocol Components Type Term Source REF		
-STUDY CONTACTS
-Study Person Last Name	CHARMET	HEUMEZ	OURY	ROLLAND	GAUFFRETEAU
-Study Person First Name	Gilles	Emmanuel	Francois-Xavier	Bernard	Arnaud
-Study Person Mid Initials					
-Study Person Email	charmet@clermont.inra.fr	emmanuel.heumez@mons.inra.fr	Francois-Xavier.OURY@clermont.inra.fr	bernard.rolland@inra.fr	gauffret@grignon.inra.fr
-Study Person Phone					
-Study Person Fax					
-Study Person Address					
-Study Person Affiliation	UMR INRA-UBP Amilioration & Santi des Plantes	Mons	INRA	INRA	INRA
-Study Person Roles					
-Study Person Roles Term Accession Number					
-Study Person Roles Term Source REF					
-STUDY
-Study Identifier	BTH_Rennes_2014_SetB3
-Study Title	BTH_Rennes_2014_SetB3
-Study Description	
-Study Submission Date	
-Study Public Release Date	
-Study File Name	s_BTH_Rennes_2014_SetB3.txt
-Comment[Study Altitude]	
-Comment[Study Country]	FR
-Comment[Study End Date]	2014-07-31
-Comment[Study Experimental Site]	Rennes
-Comment[Study Latitude]	
-Comment[Study Longitude]	
-Comment[Study Start Date]	2013-10-20
-Comment[Trait Definition File]	t_BTH_Rennes_2014_SetB3.txt
-STUDY DESIGN DESCRIPTORS
-Study Design Type	
-Study Design Type Term Accession Number	
-Study Design Type Term Source REF	
-STUDY PUBLICATIONS
-Study PubMed ID
-Study Publication DOI
-Study Publication Author List
-Study Publication Title
-Study Publication Status
-Study Publication Status Term Accession Number
-Study Publication Status Term Source REF
-STUDY FACTORS
-Study Factor Name	itk
-Study Factor Type	itk
-Study Factor Type Term Accession Number	
-Study Factor Type Term Source REF	
-STUDY ASSAYS
-Study Assay File Name	a_BTH_Rennes_2014_SetB3_REPLICATION.txt	a_BTH_Rennes_2014_SetB3_VIRTUAL_TRIAL.txt
-Study Assay Measurement Type	phenotyping	phenotyping
-Study Assay Measurement Type Term Accession Number		
-Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	REPLICATION multimodal technique	VIRTUAL_TRIAL multimodal technique
+Study Assay Technology Type	VIRTUAL_TRIAL level analysis	REPLICATION level analysis
 Study Assay Technology Type Term Accession Number		
 Study Assay Technology Type Term Source REF	OBI	OBI
 Study Assay Technology Platform		

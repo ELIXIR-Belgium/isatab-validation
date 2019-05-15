@@ -67,7 +67,7 @@ Study Assay File Name	a_VIB_study___40_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -135,7 +135,7 @@ Study Assay File Name	a_VIB_study___49_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -203,7 +203,7 @@ Study Assay File Name	a_VIB_study___50_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -271,7 +271,7 @@ Study Assay File Name	a_VIB_study___41_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -339,7 +339,7 @@ Study Assay File Name	a_VIB_study___42_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -407,7 +407,7 @@ Study Assay File Name	a_VIB_study___43_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -475,7 +475,7 @@ Study Assay File Name	a_VIB_study___44_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -543,7 +543,7 @@ Study Assay File Name	a_VIB_study___45_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -611,7 +611,7 @@ Study Assay File Name	a_VIB_study___46_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -679,7 +679,7 @@ Study Assay File Name	a_VIB_study___47_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -747,7 +747,7 @@ Study Assay File Name	a_VIB_study___48_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	
@@ -815,7 +815,7 @@ Study Assay File Name	a_VIB_study___51_plant.txt
 Study Assay Measurement Type	phenotyping
 Study Assay Measurement Type Term Accession Number	
 Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	plant multimodal technique
+Study Assay Technology Type	plant level analysis
 Study Assay Technology Type Term Accession Number	
 Study Assay Technology Type Term Source REF	OBI
 Study Assay Technology Platform	

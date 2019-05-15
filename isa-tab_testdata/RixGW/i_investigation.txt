@@ -67,7 +67,7 @@ Study Assay File Name	a_RIGW1_BLOCK>PLOT.txt	a_RIGW1_BLOCK>PLOT>PLANT.txt
 Study Assay Measurement Type	phenotyping	phenotyping
 Study Assay Measurement Type Term Accession Number		
 Study Assay Measurement Type Term Source REF	OBI	OBI
-Study Assay Technology Type	BLOCK>PLOT multimodal technique	BLOCK>PLOT>PLANT multimodal technique
+Study Assay Technology Type	BLOCK>PLOT level analysis	BLOCK>PLOT>PLANT level analysis
 Study Assay Technology Type Term Accession Number		
 Study Assay Technology Type Term Source REF	OBI	OBI
 Study Assay Technology Platform		
