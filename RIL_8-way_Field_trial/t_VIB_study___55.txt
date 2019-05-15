@@ -1,0 +1,6 @@
+Variable ID	Variable Name	Trait	Method	Method Description	Scale
+154	2DVIS	2DVIS	2DVIS		
+210	phenovation_raw_image	phenovation_raw_image	phenovation_raw_image	phenovation raw image capture	px
+213	solution_air_pressure	solution_air_pressure	solution_air_pressure	solution air pressure	t
+211	solution_name	solution_name	solution_name	solution name	t
+212	solution_volume	solution_volume	solution_volume	solution volume	ml
