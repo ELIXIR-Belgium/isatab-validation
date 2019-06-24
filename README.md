@@ -1,5 +1,5 @@
 # ISA-tab validation
-Using the ISA-API to validate isa-tab files for MIAPPE compliance.
+Using the python API from ISA to validate isa-tab files for MIAPPE compliance.
 
 The validator makes use of the configuration files found on the MIAPPE [github](https://github.com/MIAPPE/ISA-Tab-for-plant-phenotyping/tree/v1.1).
 
