@@ -1,5 +1,0 @@
-Variable ID	Variable Name	Trait	Method	Method Description	Scale
-WIPO:0000074	GY_q/ha	Grain yield	Direct measure	Mesure directe # ModeOp Arvalis = Récolte machine  RDT 0%	q/ha
-WIPO:0000218	ht	Plant height	ht		cm
-WIPO:0000219	prec	Precocity	prec		d
-WIPO:0000220	ps	Test weight	ps	Weight of 100 litres of grain.	kg/hl
