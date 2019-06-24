@@ -1,8 +1,16 @@
-# isa-validation
-Using the ISA-API to validate isa-tab files
+# ISA-tab validation
+Using the ISA-API to validate isa-tab files for MIAPPE compliance.
 
+The validator makes use of the configuration files found on the MIAPPE [github](https://github.com/MIAPPE/ISA-Tab-for-plant-phenotyping/tree/v1.1).
 
-usage:
+Because the validator is sensitive to non UTF-8 characters, all files get converted to UTF-8 by default.
+
+### Usage:
+
 ```bash
-python validateISAtab_v2.py isa-tab_testdata/RIL_8-way_Field_trial
+python ISAtab-validator_v1.py <path to isatab directory>
 ```
+
+### Output
+
+The validation log file can be found in the same directory as the ISA-tab files named `validation_log.json`
